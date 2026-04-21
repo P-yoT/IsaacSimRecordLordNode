@@ -1,0 +1,2 @@
+# IsaacSimFileLoaderNode
+IsaacSimのScriptNodeで使用できるファイル読み込み、出力ノードです。
